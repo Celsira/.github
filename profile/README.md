@@ -40,8 +40,8 @@ and [Developer Certificate of Origin](../DCO.md).
 
 # License
 
-This project is licensed under the [MIT License](../LICENSE). Most of the core features of Celsira and Celsima are
-proprietary and remain private to maintain our business integrity. However, we are actively working to open-source
+This repository (`.github`) is licensed under the [MIT License](../LICENSE). Most of the core features of Celsira and Celsima are
+proprietary, use different licenses and remain private to maintain our business integrity. However, we are actively working to open-source
 select components, such as language translations, UI components, and APIs, to encourage community contributions and
 improvements.
 
