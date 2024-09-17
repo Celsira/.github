@@ -1,7 +1,7 @@
 <div align="center">
     <img src="../assets/logo-icon-medium-gradient.png" width="250" height="250" alt="Celsira Logo">
     <h1>Celsira</h1>
-    <p>The first platform to digitalize private beach experiences for employees and beachgoers.</p>
+    <p>The first platform to digitalize private beach experiences for owners, employees and beachgoers.</p>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 Celsira is revolutionizing the way private beaches operate and interact with their guests. By digitalizing the
 management and reservation processes, Celsira provides an all-in-one solution for beach owners, while also enhancing the
 customer experience for beachgoers. Celsima, the management tool within Celsira, empowers beach owners and their
-employees to efficiently manage operations, from deck chair reservations to customer analytics.
+employees to efficiently manage operations, from deck chair reservations, to customer analytics, reseravtions and payments.
 
 # Table of Contents
 
