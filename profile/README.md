@@ -12,7 +12,7 @@
 Celsira is revolutionizing the way private beaches operate and interact with their guests. By digitalizing the
 management and reservation processes, Celsira provides an all-in-one solution for beach owners, while also enhancing the
 customer experience for beachgoers. Celsima, the management tool within Celsira, empowers beach owners and their
-employees to efficiently manage operations, from deck chair reservations, to customer analytics, reseravtions and payments.
+employees to efficiently manage operations, from deck chair reservations, to customer analytics, reservations and payments.
 
 # Table of Contents
 
@@ -23,7 +23,7 @@ employees to efficiently manage operations, from deck chair reservations, to cus
 
 # Features
 
-With Celsira and Celsima, you can:
+With the first version to come of Celsira and Celsima, you can:
 
 - **Digital Beach Management**: Manage your beach’s operations seamlessly through an intuitive web and mobile platform.
 - **Beachmap System**: Visualize your beach layout and manage deck chair reservations with ease.
