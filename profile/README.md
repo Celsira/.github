@@ -1,7 +1,7 @@
 <div align="center">
     <img src="../assets/logo-icon-medium-gradient.png" width="250" height="250" alt="Celsira Logo">
     <h1>Celsira</h1>
-    <p>The first open source platform to digitalize private beach experiences for owners, employees and beachgoers.</p>
+    <p>The first platform to digitalize private beach experiences for owners, employees and beachgoers.</p>
 </div>
 
 <div align="center">
