@@ -56,9 +56,6 @@ and [Developer Certificate of Origin](.github/DCO.md).
 Celsira would not have been possible without the incredible tools and frameworks developed by the open-source community.
 We would like to extend a special thank you to:
 
-- **React Native**: For enabling the development of a cross-platform mobile experience.
-- **Angular**: For providing a powerful framework to build our web platforms.
-- **NestJS**: For providing a robust framework to power our backend services.
-- **MongoDB**: For delivering a scalable and flexible database solution that supports our platform’s growth.
+
 
 Released by [@danieljancar](https://github.com/danieljancar) and [@cyrilkurmann](https://github.com/Gr1ll)
