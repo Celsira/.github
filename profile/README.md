@@ -35,8 +35,8 @@ With the first version to come of Celsira and Celsima, you can:
 We welcome contributions from the community! While the core functionality of Celsira and Celsima remains proprietary to
 ensure the integrity and quality of our platform, we are committed to open-sourcing certain components to foster
 community collaboration. If you're interested in contributing, please make sure to read and follow
-our [Contributing Guidelines](../CONTRIBUTING.md), [Code of Conduct](../CODE_OF_CONDUCT.md),
-and [Developer Certificate of Origin](../DCO.md).
+our [Contributing Guidelines](https://github.com/Celsira/.github/blob/develop/CONTRIBUTING.md), [Code of Conduct](https://github.com/Celsira/.github/blob/develop/CODE_OF_CONDUCT.md),
+and [Developer Certificate of Origin](https://github.com/Celsira/.github/blob/develop/DCO.md).
 
 # License
 
@@ -46,8 +46,8 @@ select components, such as language translations, UI components, and APIs, to en
 improvements.
 
 By contributing to public Celsira/Celsima and other related platforms, you agree that your contributions will be released under the mentioned license in the repository.
-Additionally, you agree to adhere to the [Contributor Covenant Code of Conduct](.github/CODE_OF_CONDUCT.md)
-and [Developer Certificate of Origin](.github/DCO.md).
+Additionally, you agree to adhere to the [Contributor Covenant Code of Conduct](https://github.com/Celsira/.github/blob/develop/CODE_OF_CONDUCT.md)
+and [Developer Certificate of Origin](https://github.com/Celsira/.github/blob/develop/DCO.md).
 
 # Credits
 
